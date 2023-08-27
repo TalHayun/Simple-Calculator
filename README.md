@@ -1,6 +1,7 @@
 # Simple-Calculator
+
 ## Leaf Procedure - Product
-Write a procedure which multiplies two integers together. Use the code below as the starting point for this exercise. You can implement the algorithm any way you like.
-However, do not use these instructions: mult, multu, mul, mulo or muluo.
-## Nested Procedures
-Write a basic calculator which can perform the following on two integers at a time: Addition, Subtraction, and Multiplication
+This repository contains an implementation of a procedure that performs integer multiplication without using the provided multiplication instructions (mult, multu, mul, mulo, muluo) in MIPS assembly language.
+
+## Nested Procedures - Basic Calculator
+This repository contains a basic calculator implemented in MIPS assembly language that can perform addition, subtraction, and multiplication operations on two integer operands.
